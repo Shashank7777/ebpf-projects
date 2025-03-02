@@ -1,3 +1,5 @@
+###File Monitor
+
 - Monitors file operations (open, read, write)
 - Filters out system daemons (systemd, dbus-daemon, polkitd, etc.)
 - Ignores root (system) processes to reduce noise
